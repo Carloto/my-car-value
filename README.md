@@ -1,6 +1,6 @@
 ## Description
 
-Car value api built with [Nest](https://github.com/nestjs/nest).
+Car value API built with [Nest](https://github.com/nestjs/nest).
 
 ## Installation
 
